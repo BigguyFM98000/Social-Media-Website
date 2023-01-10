@@ -2,7 +2,7 @@
 A website to promote my personality, skills and projects on my social media accounts. The social media i am targeting is Facebook and Instagram.
 
 # Frameworks and Packages
-1. Daisy UI
+1. React
 2. Tailwind CSS
 3. Daisy UI
 
